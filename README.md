@@ -69,6 +69,8 @@ This project is a Streamlit application that enables users to upload PDF documen
 2. **Open your web browser**
 
     Visit `http://localhost:8501` to access the application.
+   ![image](https://github.com/user-attachments/assets/5d76464c-0fac-403c-948c-ec2fabf21531)
+
 
 ## Usage
 
